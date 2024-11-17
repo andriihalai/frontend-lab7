@@ -1,0 +1,17 @@
+.goodsCard {
+  width: 200px;
+  height: 300px;
+}
+
+.goodsImage {
+  width: 200px;
+  height: 200px;
+}
+
+.img-container {
+  text-align: center;
+}
+
+.cost {
+  text-align: center;
+}
